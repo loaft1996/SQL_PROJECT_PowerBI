@@ -4,6 +4,6 @@
 
 
 # Použité dáta 
-Údaje - HR údaje s viac ako 22 000 riadkami od roku 2000 do roku 2020.
-Čistenie a analýza dát – MySQL Workbench
-Vizualizácia dát – PowerBI
+### Údaje - HR údaje s viac ako 22 000 riadkami od roku 2000 do roku 2020.
+### Čistenie a analýza dát – MySQL Workbench
+### Vizualizácia dát – PowerBI
