@@ -9,8 +9,8 @@
 - Vizualizácia dát – PowerBI
 
 # Otázky
-  1) Zamestnanci podľa pohlavia, ktorý ešte pracuju vo firme.
-  2) Rasové/etnické členenie zamestnancov vo firme.
+  1) Aké je rozdelenie zamestnancov podľa pohlavia, ktorý ešte pracuju vo firme?
+  2) Aké je rasové/etnické členenie zamestnancov vo firme?
   3) Aké je vekové rozdelenie zamestnancov vo firme ?
   4) Koľko zamestnancov pracuje v centrále a koľko na dištančných pozíciách?
   5) Aká je priemerná doba zamestnania zamestnanca pred jeho odchodom z firmy?
