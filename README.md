@@ -1,6 +1,7 @@
 # SQL_PROJECT
 
-![image](https://github.com/user-attachments/assets/8fc9dcdd-7a54-419e-9828-67025f2359d6)
+![image](https://github.com/user-attachments/assets/9b3fbf97-ec7e-4c2e-b2f2-9b924b9fbc1a)
+
 
 
 # Použité dáta 
